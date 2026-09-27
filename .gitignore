@@ -1,0 +1,6 @@
+node_modules/
+seed/
+*.png
+_t.html
+_check.js
+.DS_Store
